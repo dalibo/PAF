@@ -8,11 +8,11 @@ The PAF project official repository has **moved** to the ClusterLabs organizatio
 
 The ClusterLabs organization is managed by the Pacemaker community.
 
-* website: http://clusterlabs.github.io/PAF/
-* FAQ: http://clusterlabs.github.io/PAF/FAQ.html
-* documentation: http://clusterlabs.github.io/PAF/documentation.html
-* bug report: https://github.com/ClusterLabs/PAF/issues
-* releases: https://github.com/ClusterLabs/PAF/releases
+* website: [http://clusterlabs.github.io/PAF/]()
+* FAQ: [http://clusterlabs.github.io/PAF/FAQ.html]()
+* documentation: [http://clusterlabs.github.io/PAF/documentation.html]()
+* bug report: [https://github.com/ClusterLabs/PAF/issues]()
+* releases: [https://github.com/ClusterLabs/PAF/releases]()
 * community support: pgsql-general@postgresql.org or users@clusterlabs.org
 
 Don't forget to update your git remote!
